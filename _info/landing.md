@@ -1,5 +1,5 @@
 ---
-title: My Portfolio
+title: JW's Space
 name: landing.md
 image: me.jpg
 ---
